@@ -1,0 +1,28 @@
+body {
+    font-family: "Montserrat", sans-serif;
+    font-size: 15px;
+}
+
+.logo {
+    font-family: "Bebas neue", sans-serif;
+    line-height: 15px;
+}
+
+.section {
+    margin: 70px;
+}
+
+.table__wrapper {
+    margin-top: 50px;
+}
+
+.title {
+    font-family: "Play", sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.card {
+    margin: 0 auto
+}
